@@ -7,7 +7,7 @@ I'm Piotr FLEURY, I'm currently working at [XPEHO](https://www.xpeho.com/) compa
 - 👯 I’m looking to collaborate on new projects to share knowledge and also learn new things
 - 🤔 I’m looking for help with cloud, documentation, open source
 - 💬 Ask me about Flutter, Dart, PWA, Android, Kotlin, Java, Spring boot, REST API, Docker, CI/CD, SQL
-- 📫 How to reach me: (on Twitter @PiotrFLEURY) [https://twitter.com/PiotrFLEURY]
+- 📫 How to reach me: [on Twitter @PiotrFLEURY](https://twitter.com/PiotrFLEURY)
 - 😄 Pronouns: he/him
 
 <!--
