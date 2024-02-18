@@ -10,14 +10,13 @@ I finally falled in love with Flutter :heart_eyes: and I try to do my best to sh
 Nowadays I work on mobile apps full stack developpment with Flutter Web PWA communicating with Spring boot micro services using REST API, MongoDB and PostgreSQL
 
 - 🔭 I’m currently working on making apps with Flutter. I'm also searching for new ways exchange with candidates in coding interviews
-- 🌱 I’m currently learning Jetpack Compose, Kotlin Compose, KMM, IOS, Node, Vue and a little bit of React
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on new projects to share knowledge and also learn new things
 - 🤔 I’m looking for help with cloud, documentation, open source
 - 💬 Ask me about Git, Flutter, Dart, PWA, Android, Kotlin, Java, Spring boot, REST API, Docker, CI/CD, SQL, maven, gradle
 - 📫 How to reach me: [on Twitter @PiotrFLEURY](https://twitter.com/PiotrFLEURY)
 - 😄 Pronouns: he/him
 - :hammer: IDEs: VS Code, IntelliJ, Android Studio
-
-<!--
-- ⚡ Fun fact: ...
--->
+- 🌐 Website: [https://mobile-tools.dev/](https://mobile-tools.dev/)
+- 🎯 Dart packages & plugins: Checkout my open source Dart & Flutter packages on [https://pub.dev/publishers/mobile-tools.dev/packages](https://pub.dev/publishers/mobile-tools.dev/packages)
+- 🎨 Preferred languages: Dart, Kotlin, Java, Javascript, SQL and... Rust
