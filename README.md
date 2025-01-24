@@ -20,3 +20,5 @@ Nowadays I work on mobile apps full stack developpment with Flutter Web PWA comm
 - 🌐 Website: [https://mobile-tools.dev/](https://mobile-tools.dev/)
 - 🎯 Dart packages & plugins: Checkout my open source Dart & Flutter packages on [https://pub.dev/publishers/mobile-tools.dev/packages](https://pub.dev/publishers/mobile-tools.dev/packages)
 - 🎨 Preferred languages: Dart, Kotlin, Java, Javascript, SQL and... Rust
+
+[![PiotrFLEURY's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiotrFLEURY)](https://github.com/anuraghazra/github-readme-stats)
